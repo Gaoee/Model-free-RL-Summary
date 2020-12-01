@@ -1,5 +1,5 @@
 # Model-free-RL-Summary
-## 这是一份mode-free RL主流算法的一份总结
+## 这是一份mode-free RL主流算法的总结
 ### 1 Algorithms	2
 ### 1.1 On-policy RL	5
 ### 1.1.1 Policy Gradient (PG) 1992	5
